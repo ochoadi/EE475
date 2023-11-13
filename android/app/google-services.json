@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "231863515800",
+    "project_id": "smartcollar-8f06f",
+    "storage_bucket": "smartcollar-8f06f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231863515800:android:8280b73922d0e4c3156eed",
+        "android_client_info": {
+          "package_name": "com.smartcollar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA25uLtpdwbHYMOOMKTXqv8blzZL_xChMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
